@@ -1,0 +1,18 @@
+body{
+  background-color: grey;
+}
+
+h1{
+  font-size: 20px;
+  font-family: helvetica;
+  color: white;
+}
+table{
+  background-color: black;
+}
+
+.btn{
+  width: 100px;
+  height: 100px;
+  font-size: 50px;
+}
